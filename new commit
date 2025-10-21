@@ -1,0 +1,2 @@
+Repository administrators can enforce required commit signing on a branch to block
+all commits that are not signed and verified. 
